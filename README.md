@@ -21,3 +21,10 @@ conda activate symdlnn
 ```
 
 3. This is your own environment, feel free to install any other dependencies
+
+## Citation
+
+If you use any of the code for your own projects, please consider citing
+```
+Put bibtex entry here
+```
