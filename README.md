@@ -26,5 +26,12 @@ conda activate symdlnn
 
 If you use any of the code for your own projects, please consider citing
 ```
-Put bibtex entry here
+@misc{lishkova2022symdlnn,
+      title={Discrete Lagrangian Neural Networks with Automatic Symmetry Discovery}, 
+      author={Yana Lishkova and Paul Scherer and Steffen Ridderbusch and Mateja Jamnik and Pietro Liò and Sina Ober-Blöbaum and Christian Offen},
+      year={2022},
+      eprint={2211.10830},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
